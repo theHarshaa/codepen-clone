@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codepen-clone/static/css/main.086b98e9.css",
+    "main.js": "/codepen-clone/static/js/main.d182310d.js",
+    "index.html": "/codepen-clone/index.html",
+    "main.086b98e9.css.map": "/codepen-clone/static/css/main.086b98e9.css.map",
+    "main.d182310d.js.map": "/codepen-clone/static/js/main.d182310d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.086b98e9.css",
+    "static/js/main.d182310d.js"
+  ]
+}
